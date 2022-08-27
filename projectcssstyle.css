@@ -1,0 +1,42 @@
+.header{
+	background: black;
+	padding: 5px;
+}
+.leftbar{
+	border-width: medium;
+	border-style: solid;
+	float: left;
+	margin-left: 10px;
+	width: 100px;
+	margin-bottom: 100px;
+}
+.login{
+	text-align:center;
+	margin-right: 120px;
+	margin-top: 50px;
+}
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 50px;
+}
+li a{
+	color: white;
+	text-decoration: none;
+}
+li a:hover {
+	color: red;
+	text-decoration: none;
+}
+.searchbar{
+	text-align: center;
+}
+footer{
+	background-color: black;
+	color: white;
+	padding: 2px;
+	text-align: center;
+	margin-top: 130px;
+}
